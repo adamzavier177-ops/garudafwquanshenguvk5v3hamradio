@@ -1,4 +1,4 @@
-#GarudaFW — Quansheng UV-K5 V3 (PY32F071)
+# GarudaFW — Quansheng UV-K5 V3 (PY32F071)
 
 🌐 **Language:** [English](#english) | [Bahasa Indonesia](#bahasa-indonesia)
 
@@ -10,8 +10,8 @@
 Custom firmware for **Quansheng UV-K5 Hardware V3 (PY32F071 MCU)** developed in Indonesia, based on **F4HWN Fusion v7.00**.
 
 ### ⚠️ Hardware Compatibility Warning
-* ✅ **Compatible:** Quansheng UV-K5 V3 / UV-K1 (powered by **PY32F071(V3)** microcontroller).
-* ❌ **NOT Compatible:** Older Quansheng UV-K5 / UV-K5(8) / UV-K6 revisions (powered by **DP32G030(V1) or PY32F030(V2)** microcontroller).
+* ✅ **Compatible:** Quansheng UV-K5 V3 / UV-K1 (powered by **PY32F071 (V3)** microcontroller).
+* ❌ **NOT Compatible:** Older Quansheng UV-K5 / UV-K5(8) / UV-K6 revisions (powered by **DP32G030 (V1)** or **PY32F030 (V2)** microcontroller).
 * Flashing this firmware onto an incompatible hardware revision may brick the radio.
 
 ### 📥 Download Firmware
@@ -38,7 +38,7 @@ You can back up your calibration data and flash the firmware directly from your 
 
 #### Step 3: Flash `.bin` Firmware
 1. Return to **[UVTools2 Web Flasher](https://github.io)** and select the **Flash Firmware** tab.
-2. Under **Firmware File (.bin)**, click **Choose file** and select the downloaded `tupelov.firm.v1.0.0.bin` file.
+2. Under **Firmware File (.bin)**, click **Choose file** and select the downloaded `garudafw-v1.0.0.bin` file.
 3. Click **Flash firmware**, select your COM port, and wait until the progress reaches **100%**.
 4. Unplug the cable and reboot your radio.
 
@@ -52,8 +52,8 @@ You can back up your calibration data and flash the firmware directly from your 
 Custom firmware untuk HT **Quansheng UV-K5 Hardware V3 (MCU PY32F071)** yang dikembangkan di Indonesia, berbasis **F4HWN Fusion v7.00**.
 
 ### ⚠️ Peringatan Kompatibilitas Hardware
-* ✅ **Kompatibel:** Quansheng UV-K5 V3 / UV-K1 (berbasis mikrokontroler **PY32F071(V3)**).
-* ❌ **TIDAK Kompatibel:** Quansheng UV-K5 / UV-K5(8) / UV-K6 versi lama (berbasis mikrokontroler **DP32G030(V1) atau PY32F030(V2**).
+* ✅ **Kompatibel:** Quansheng UV-K5 V3 / UV-K1 (berbasis mikrokontroler **PY32F071 (V3)**).
+* ❌ **TIDAK Kompatibel:** Quansheng UV-K5 / UV-K5(8) / UV-K6 versi lama (berbasis mikrokontroler **DP32G030 (V1)** atau **PY32F030 (V2)**).
 * Memasang firmware ini pada versi hardware yang salah dapat menyebabkan perangkat tidak menyala (*brick*).
 
 ### 📥 Unduh Firmware
@@ -80,7 +80,7 @@ Anda dapat melakukan *backup* kalibrasi sekaligus *flashing* langsung dari brows
 
 #### Langkah 3: Flash Firmware `.bin`
 1. Kembali ke halaman **[UVTools2 Web Flasher](https://github.io)**, lalu pilih tab **Flash Firmware**.
-2. Pada bagian **Firmware File (.bin)**, klik **Choose file** dan pilih file `tupelov.firm.v1.0.0.bin` yang sudah diunduh.
+2. Pada bagian **Firmware File (.bin)**, klik **Choose file** dan pilih file `garudafw-v1.0.0.bin` yang sudah diunduh.
 3. Klik tombol **Flash firmware**, pilih port COM perangkat Anda, lalu tunggu hingga proses mencapai **100%**.
 4. Cabut kabel dan hidupkan ulang HT Anda.
 
@@ -89,5 +89,5 @@ Anda dapat melakukan *backup* kalibrasi sekaligus *flashing* langsung dari brows
 ---
 
 ## Credits & Acknowledgments
-* **Base Firmware:** [F4HWN Fusion v7.00](https://github.com) by Armel (F4HWN)
+* **Base Firmware:** [F4HWN Fusion v7.00](https://github.com) by Armel (`F4HWN`)
 * **Web Flasher & Calibration Tool:** [UVTools2 by F4HWN](https://github.io)
