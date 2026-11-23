@@ -1,4 +1,4 @@
-# Tupelov Firmware — Quansheng UV-K5 V3 (PY32F071)
+#GarudaFW — Quansheng UV-K5 V3 (PY32F071)
 
 🌐 **Language:** [English](#english) | [Bahasa Indonesia](#bahasa-indonesia)
 
