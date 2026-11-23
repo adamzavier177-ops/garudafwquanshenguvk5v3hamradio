@@ -10,8 +10,8 @@
 Custom firmware for **Quansheng UV-K5 Hardware V3 (PY32F071 MCU)** developed in Indonesia, based on **F4HWN Fusion v7.00**.
 
 ### ⚠️ Hardware Compatibility Warning
-* ✅ **Compatible:** Quansheng UV-K5 V3 / UV-K1 (powered by **PY32F071** microcontroller).
-* ❌ **NOT Compatible:** Older Quansheng UV-K5 / UV-K5(8) / UV-K6 revisions (powered by **DP32G030 or PY32F030** microcontroller).
+* ✅ **Compatible:** Quansheng UV-K5 V3 / UV-K1 (powered by **PY32F071(V3)** microcontroller).
+* ❌ **NOT Compatible:** Older Quansheng UV-K5 / UV-K5(8) / UV-K6 revisions (powered by **DP32G030(V1) or PY32F030(V2)** microcontroller).
 * Flashing this firmware onto an incompatible hardware revision may brick the radio.
 
 ### 📥 Download Firmware
@@ -52,8 +52,8 @@ You can back up your calibration data and flash the firmware directly from your 
 Custom firmware untuk HT **Quansheng UV-K5 Hardware V3 (MCU PY32F071)** yang dikembangkan di Indonesia, berbasis **F4HWN Fusion v7.00**.
 
 ### ⚠️ Peringatan Kompatibilitas Hardware
-* ✅ **Kompatibel:** Quansheng UV-K5 V3 / UV-K1 (berbasis mikrokontroler **PY32F071**).
-* ❌ **TIDAK Kompatibel:** Quansheng UV-K5 / UV-K5(8) / UV-K6 versi lama (berbasis mikrokontroler **DP32G030 atau PY32F030**).
+* ✅ **Kompatibel:** Quansheng UV-K5 V3 / UV-K1 (berbasis mikrokontroler **PY32F071(V3)**).
+* ❌ **TIDAK Kompatibel:** Quansheng UV-K5 / UV-K5(8) / UV-K6 versi lama (berbasis mikrokontroler **DP32G030(V1) atau PY32F030(V2)**).
 * Memasang firmware ini pada versi hardware yang salah dapat menyebabkan perangkat tidak menyala (*brick*).
 
 ### 📥 Unduh Firmware
