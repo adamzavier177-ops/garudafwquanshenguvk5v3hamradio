@@ -53,7 +53,7 @@ Custom firmware untuk HT **Quansheng UV-K5 Hardware V3 (MCU PY32F071)** yang dik
 
 ### ⚠️ Peringatan Kompatibilitas Hardware
 * ✅ **Kompatibel:** Quansheng UV-K5 V3 / UV-K1 (berbasis mikrokontroler **PY32F071(V3)**).
-* ❌ **TIDAK Kompatibel:** Quansheng UV-K5 / UV-K5(8) / UV-K6 versi lama (berbasis mikrokontroler **DP32G030(V1) atau PY32F030(V2)**).
+* ❌ **TIDAK Kompatibel:** Quansheng UV-K5 / UV-K5(8) / UV-K6 versi lama (berbasis mikrokontroler **DP32G030(V1) atau PY32F030(V2**).
 * Memasang firmware ini pada versi hardware yang salah dapat menyebabkan perangkat tidak menyala (*brick*).
 
 ### 📥 Unduh Firmware
